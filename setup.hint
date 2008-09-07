@@ -1,0 +1,5 @@
+sdesc: "Python based distributed version control system"
+ldesc: "Distributed version control system that is powerful, friendly, and
+scalable."
+category: Devel Python
+requires: cygwin python
