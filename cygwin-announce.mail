@@ -1,5 +1,5 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: bzr 1.8-1 -- Python based distributed version control
+Subject: Updated: bzr 1.9-1 -- Python based distributed version control
 
 PACKAGE DESCRIPTION
 ===================
@@ -22,7 +22,7 @@ projects of Canonical.
 CHANGES SINCE LAST RELEASE
 ==========================
 
-http://bazaar-vcs.org/news
+https://launchpad.net/bzr/+announcements
 http://doc.bazaar-vcs.org/bzr.dev/en/release-notes/NEWS.html
 
 INSTALL OR UPGRADE NOTES
