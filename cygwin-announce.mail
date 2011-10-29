@@ -23,6 +23,9 @@ projects of Canonical.
 CHANGES SINCE LAST RELEASE
 ==========================
 
+Includes fix for Cygwin specific bug:
+https://lists.ubuntu.com/archives/bazaar/2011q3/thread.html#73590
+
 https://launchpad.net/bzr/+announcements
 http://doc.bazaar.canonical.com/bzr.dev/en/release-notes/index.html
 http://doc.bazaar.canonical.com/en/
