@@ -1,5 +1,5 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: bzr 2.4.2-1 -- Python based distributed version control (DVCS)
+Subject: Updated: bzr 2.5.0-1 -- Python based distributed version control (DVCS)
 --text follows this line--
 
 PACKAGE DESCRIPTION
@@ -33,7 +33,8 @@ http://doc.bazaar.canonical.com/en/
 INSTALL OR UPGRADE NOTES
 ========================
 
-Upgrade existing branches to new format with commands:
+If you have old branches, you can upgrade them to new format with
+commands:
 
   bzr info                To see current repository format
   bzr reconcile           To correct metadata prior upgrade
