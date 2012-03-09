@@ -6,7 +6,7 @@ PACKAGE DESCRIPTION
 ===================
 
 Home page: http://bazaar.canonical.com
-License  : GPL (Bzr is part of GNU project)
+License  : GPL-2+ (Bzr is part of GNU project)
 
 Distributed version control that is used in projects like managing
 Ubuntu packages <http://ubuntulinux.org> and it is one of the funded
