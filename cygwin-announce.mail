@@ -1,6 +1,18 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: bzr 2.5.0-1 -- Python based distributed version control (DVCS)
+Subject: Updated: bzr 2.6+b2-1 -- Python based distributed version control (DVCS)
 --text follows this line--
+
+Package maintainer's foreword
+=============================
+
+As of 2012-11-15 The development of this utility has stagnated. All the lead
+developers have left Canonical (the project owner). The future support is
+uncertain. You might want to consider researching to migrate existing
+repositories to alternative DVCS, like Git or Mercurial.
+
+Ssource: see Bzr mailing list discussion on this topic
+https://lists.ubuntu.com/archives/bazaar/2012q4/075330.html
+http://permalink.gmane.org/gmane.comp.version-control.bazaar-ng.general/74664
 
 PACKAGE DESCRIPTION
 ===================
@@ -22,9 +34,6 @@ projects of Canonical.
 
 CHANGES SINCE LAST RELEASE
 ==========================
-
-Includes fix for Cygwin specific bug:
-https://lists.ubuntu.com/archives/bazaar/2011q3/thread.html#73590
 
 https://launchpad.net/bzr/+announcements
 http://doc.bazaar.canonical.com/bzr.dev/en/release-notes/index.html
