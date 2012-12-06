@@ -7,10 +7,10 @@ Package maintainer's foreword
 
 As of 2012-11-15 The development of this utility has stagnated. All the lead
 developers have left Canonical (the project owner). The future support is
-uncertain. You might want to consider researching to migrate existing
+uncertain. You might want to consider researching how to migrate your bzr
 repositories to alternative DVCS, like Git or Mercurial.
 
-Ssource: see Bzr mailing list discussion on this topic
+For more information, see development mailing thread
 https://lists.ubuntu.com/archives/bazaar/2012q4/075330.html
 http://permalink.gmane.org/gmane.comp.version-control.bazaar-ng.general/74664
 
