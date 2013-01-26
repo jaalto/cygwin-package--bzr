@@ -1,16 +1,17 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: bzr 2.6+b2-1 -- Python based distributed version control (DVCS)
+Subject: Updated: bzr 2.6+b2-2 -- Python based distributed version control (DVCS)
+From: Jari Aalto <jari.aalto@cante.net>
 --text follows this line--
 
 Package maintainer's foreword
 =============================
 
-As of 2012-11-15 The development of this utility has stagnated. All the lead
-developers have left Canonical (the project owner). The future support is
-uncertain. You might want to consider researching how to migrate your bzr
-repositories to alternative DVCS, like Git or Mercurial.
+As of 2012-11-15 the future of this software is uncertain as the
+current development has stagnated. All the lead developers have left
+Canonical (the project owner). You might want to consider migrating to
+other alternative DVCS software, like Git or Mercurial, in a long term.
 
-For more information, see development mailing thread
+For more information, see development mailing list thread
 https://lists.ubuntu.com/archives/bazaar/2012q4/075330.html
 http://permalink.gmane.org/gmane.comp.version-control.bazaar-ng.general/74664
 
@@ -35,9 +36,7 @@ projects of Canonical.
 CHANGES SINCE LAST RELEASE
 ==========================
 
-https://launchpad.net/bzr/+announcements
-http://doc.bazaar.canonical.com/bzr.dev/en/release-notes/index.html
-http://doc.bazaar.canonical.com/en/
+Built for Python 2.7
 
 INSTALL OR UPGRADE NOTES
 ========================
