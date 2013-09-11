@@ -37,6 +37,7 @@ Canonical homepage:
 
 Canonical download:
   http://bazaar-vcs.org/DistroDownloads
+  https://launchpad.net/bzr/+download
 
 Version control repository:
    bzr branch http://bazaar-ng.org/bzr/bzr.dev
@@ -82,6 +83,9 @@ Files included in the binary distro:
 ------------------
 
 Port Notes:
+
+----- version 2.6+b2-2 -----
+- New upstream release 2013-01-26 Jari Aalto
 
 ----- version 2.6+b2-2 -----
 - New upstream release 2013-01-26 Jari Aalto
