@@ -65,15 +65,15 @@ Language:
 ------------------------------------
 
 Build instructions:
-  unpack bzr-2.6.0-2-src.tar.bz2
+  unpack bzr-2.6.0+bzr6602-1-src.tar.bz2
     if you use setup to install this src package, it will be
     unpacked under /usr/src automatically
   cd /usr/src
   ./bzr*.sh all
 
 This will create:
-  bzr-2.6.0-2.tar.bz2
-  bzr-2.6.0-2-src.tar.bz2
+  bzr-2.6.0+bzr6602-1.tar.xz
+  bzr-2.6.0+bzr6602-1-src.tar.xz
 
 -------------------------------------------
 
@@ -83,6 +83,9 @@ Files included in the binary distro:
 ------------------
 
 Port Notes:
+
+----- version 2.6.0+bzr6602-1 -----
+- New upstream release 2015-09-28 Jari Aalto
 
 ----- version 2.6.0-2 -----
 - New upstream release 2013-09-13 user
@@ -245,5 +248,5 @@ Port Notes:
 ----- version 0.0.3-1 -----
 - Initial release 2005-04-06 Jari Aalto
 
-Cygwin port maintained by: user <jari.aalto@cante.net>
-Copyright (C) 2005-2013 Jari Aalto; Licensed under GPL v2 or later
+Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
+Copyright (C) 2005-2015 Jari Aalto; Licensed under GPL v2 or later
