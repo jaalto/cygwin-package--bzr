@@ -1,3 +1,3 @@
 tag1: bzr
-  https://launchpad.net/bzr/+download pregexp:tar.gz file:bzr-0.1.1.tar.gz new: x:
+  http://packages.debian.org/unstable/bzr  pregexp:orig.tar.gz file:bzr-0.1.1+1234.orig.tar.gz new: x:
 
