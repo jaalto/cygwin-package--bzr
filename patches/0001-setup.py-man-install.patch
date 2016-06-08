@@ -9,13 +9,11 @@ Content-Transfer-Encoding: 8bit
 Signed-off-by: Jari Aalto <jari.aalto@cante.net>
 ---
  setup.py |    2 +-
- 1 files changed, 1 insertions(+), 1 deletions(-)
+ 1 file changed, 1 insertion(+), 1 deletion(-)
 
-diff --git a/setup.py b/setup.py
-index a21ebe8..8a9a501 100755
 --- a/setup.py
 +++ b/setup.py
-@@ -762,7 +762,7 @@ def build_executable(self, *args, **kwargs):
+@@ -763,7 +763,7 @@ else:
      if not 'bdist_egg' in sys.argv:
          # generate and install bzr.1 only with plain install, not the
          # easy_install one
@@ -24,6 +22,3 @@ index a21ebe8..8a9a501 100755
  
      DATA_FILES = DATA_FILES + I18N_FILES
      # std setup
--- 
-1.7.9
-
