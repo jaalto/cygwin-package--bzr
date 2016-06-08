@@ -6,10 +6,10 @@ From: Jari Aalto <jari.aalto@cante.net>
 Package maintainer's foreword
 =============================
 
-As of 2012-11-15 the future of this software is uncertain as the
-current development has stagnated. All the lead developers have left
-Canonical (the project owner). You might want to consider migrating to
-other alternative DVCS software, like Git or Mercurial, in a long term.
+The future of this software is uncertain as the current development
+has stagnated. In 2014 all the lead developers left Canonical (the
+project owner). You might want to consider migrating to other
+alternative DVCS software, like Git or Mercurial, in a long term.
 
 For more information, see development mailing list thread
 https://lists.ubuntu.com/archives/bazaar/2012q4/075330.html
