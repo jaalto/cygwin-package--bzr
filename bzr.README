@@ -28,7 +28,8 @@ Runtime requirements:
   python
 
 Build requirements:
-  python
+  python 
+  quilt
 
 Canonical homepage:
   http://bazaar.canonical.com
