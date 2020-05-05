@@ -1,3 +1,2 @@
 tag1: bzr
-  http://packages.debian.org/unstable/bzr  pregexp:orig.tar.gz file:bzr_2.7.0.orig.tar.gz new: x:
-
+  http://packages.debian.org/unstable/bzr  pregexp:tar.xz file:bzr_2.7.0+bzr6622+brz.tar.xz  new: x:
