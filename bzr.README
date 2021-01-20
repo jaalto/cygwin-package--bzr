@@ -28,13 +28,15 @@ Runtime requirements:
   python
 
 Build requirements:
-  python
+  python3
+  python37-setuptools
+  python37-devel
   quilt
 
 Canonical homepage:
-  http://bazaar.canonical.com
-  http://freshmeat.net/projects/bzr/
+  https://launchpad.net/bzr
   http://packages.debian.org/bzr
+  http://bazaar.canonical.com
 
 Canonical download:
   New python 3:
@@ -59,7 +61,7 @@ IRC channel:
 
 Upstream contact:
   Author: Martin Pool <mbp@canonical.com>
-  Bugs: https://bugs.launchpad.net/products/bzr
+  Bugs: https://bugs.launchpad.net/bzr
 
 License:
   GPL-2+
