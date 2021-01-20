@@ -28,7 +28,7 @@ Runtime requirements:
   python
 
 Build requirements:
-  python 
+  python
   quilt
 
 Canonical homepage:
@@ -41,7 +41,8 @@ Canonical download:
   https://launchpad.net/bzr/+download
 
 Version control repository:
-   bzr branch http://bazaar-ng.org/bzr/bzr.dev
+   bzr branch lp:bzr
+   (Old: http://bazaar-ng.org/bzr/bzr.dev)
 
 Mailing List:
   http://bazaar-vcs.org/BzrSupport
