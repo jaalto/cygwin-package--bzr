@@ -37,8 +37,11 @@ Canonical homepage:
   http://packages.debian.org/bzr
 
 Canonical download:
+  New python 3:
+  https://launchpad.net/brz/+download
+
+  Old: Python 2.7
   http://bazaar-vcs.org/DistroDownloads
-  https://launchpad.net/bzr/+download
 
 Version control repository:
    bzr branch lp:bzr
